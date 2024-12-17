@@ -1,0 +1,2 @@
+msgid "Freeping Memory Cache"
+msgstr "释放内存"
